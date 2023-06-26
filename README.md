@@ -3,7 +3,7 @@ Hackintoshing my friends' PC with an i5-11400F, RX 6600 XT, Z490 Gaming Edge WiF
 [Reddit Post](https://www.reddit.com/r/hackintosh/comments/wfdymc/success_monterey_on_i5_11400f_msi_z490_mpg_edge/)
 
 Opencore config for my PC.
-Current OC version: 0.9.3
+Current OC version: 0.8.6
 
 ### Hardware
 - CPU: Intel Core i5-11400F
