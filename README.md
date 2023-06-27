@@ -49,8 +49,8 @@ Current OC version: 0.8.6
 
 
 ### Not working
-- Bluetooth
 - Sidecar because unsupported iGPU on AMD (or no iGPU found)
+- AirDrop, some Continuity features (because of non-native Intel-WiFi)
 
 ### Fixed bugs
-- -
+- Bluetooth
