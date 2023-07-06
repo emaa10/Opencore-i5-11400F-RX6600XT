@@ -3,7 +3,7 @@ Hackintoshing my friends' PC with an i5-11400F, RX 6600 XT, Z490 Gaming Edge WiF
 [Reddit Post](https://www.reddit.com/r/hackintosh/comments/wfdymc/success_monterey_on_i5_11400f_msi_z490_mpg_edge/)
 
 Opencore config for my PC.
-Current OC version: 0.8.6
+Current OC version: 0.9.3
 
 ### Hardware
 - CPU: Intel Core i5-11400F
@@ -29,7 +29,7 @@ Current OC version: 0.8.6
 2. Download propertree and edit EFI/OC/config.plist
     1. Change PlatformInfo -> MLB, ROM, SystemUUID and SystemSerialNumber using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 3. Create the macOS Installer USB-Stick using [this](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) guide. You don't need to create the EFI, that work have I done already. 
-4. Update the BIOS settings according to [this](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings) guide. 
+4. Update the BIOS settings according to [this](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings) guide. 
 5. Insert USB and boot! When entering the macOS Recovery, click Disk Utility, format your Disk as APFS/GUID and then install macOS on your disk.
 6. For dual-booting on one disk, follow the dortania guide.
 
